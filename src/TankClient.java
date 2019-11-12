@@ -21,5 +21,6 @@ public class TankClient extends Frame{
 	public static void main(String[] args) {
 		TankClient client = new TankClient();
 		client.lauchFrame();
+		System.out.println("test");
 	}
 }
