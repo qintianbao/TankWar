@@ -4,6 +4,6 @@ public class Tests {
 		System.out.println("master");
 		System.out.println("hot_fix");
 		System.out.println("这是什么鬼！");
-		System.out.println();
+		System.out.println("dsfdsfsf");
 	}
 }
