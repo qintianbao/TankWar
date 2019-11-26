@@ -4,5 +4,6 @@ public class Tests {
 		System.out.println("master");
 		System.out.println("hot_fix");
 		System.err.println("wo hen bang!");
+		System.out.println("666");
 	}
 }
